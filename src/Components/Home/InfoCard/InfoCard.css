@@ -1,0 +1,13 @@
+.info-primary{
+    background-color:#ffc107;
+}
+.info-warning{
+    background-color: hotpink;
+}
+.info-icon{
+    font-size: 3em;
+}
+.info-container{
+    height: 220px;
+    padding:40px;
+}
